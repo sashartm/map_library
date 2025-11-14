@@ -28,6 +28,8 @@ This enables active collaboration to prototype collections with minimal set up.
 
 ## Create your own Metadata
 
+Helloooooo is this thing on
+
 To create metadata compatible with this CollectionBuilder-Sheets instance the best way to get started is to make of copy of our template in Google Drive:
 
 [CollectionBuilder Metadata Template](https://docs.google.com/spreadsheets/d/1Uv9ytll0hysMOH1j-VL1lZx6PWvc1zf3L35sK_4IuzI/copy?usp=sharing){:.btn .btn-outline-primary}
