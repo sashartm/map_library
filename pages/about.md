@@ -10,6 +10,8 @@ credits: true
 ## About this collection
 {% include feature/jumbotron.html objectid="/assets/img/IMG_2059.jpg" %}
 
+HELOOOPPPP
+
 ## About the Author
 
 This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
